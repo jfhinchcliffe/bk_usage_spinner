@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eo pipefail
 
-echo "starting....🎤"
+echo "starting....🎤 🏃‍♀️"
 
 sleep 1
 
@@ -52,7 +52,6 @@ for i in {1..10}; do
 done
 
 echo "finishing 😅"
-
 sleep 1
 
 echo "And done 👋"
